@@ -1,0 +1,17 @@
+/.env
+/.env.backup
+/.phpunit.cache
+/.phpunit.result.cache
+/.laravel-scaffold
+/vendor
+/public/hot
+/public/build
+/public/storage
+/bootstrap/cache/*.php
+/storage/*.key
+/storage/logs/*.log
+/storage/app/data/*.sqlite
+/storage/app/data/*.sqlite-*
+/storage/app/data/*.seeded
+auth.json
+.DS_Store

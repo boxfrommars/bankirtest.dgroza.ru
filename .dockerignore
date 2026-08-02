@@ -1,0 +1,6 @@
+.git
+.laravel-scaffold
+.env
+vendor
+storage/app/data
+storage/logs
