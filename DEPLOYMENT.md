@@ -14,11 +14,12 @@
 | Канонический URL | `https://bankirtest.dgroza.ru/` |
 | Тип процесса | HTTP request |
 | Runtime | PHP 8.3 |
+| Framework | Laravel 13 |
 | База данных | SQLite |
 
 ## Runtime-интерфейс
 
-- Package manager: Composer.
+- Package manager: Composer; точные версии production-зависимостей фиксирует `composer.lock`.
 - Установка production-зависимостей:
 
   ```shell
